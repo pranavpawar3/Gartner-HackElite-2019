@@ -1,5 +1,5 @@
-# Gartner-HackElite-2019
-Winning solution of Gartner HackElite 2019, hosted on Hackerearth platform by Gartner Inc.
+# Gartner HackElite 2019
+Winning solution of Gartner HackElite 2019, Machine learning challenge hosted on HackerEarth platform by Gartner Inc.
 
 Final Result - [National Winner](https://www.hackerearth.com/challenges/competitive/gartner-hackelite-2019/)
 
